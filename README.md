@@ -8,3 +8,10 @@ Project main focused on visualizing DJI stock prices (open, low, high, close) ba
 
 * Dow Jones Index data (dji_company_name.xlsx)
 * Dow Jones Index Company names (dji_stock_data.csv)
+
+## Pages in report
+
+* Page 1: Stock Prices
+* Page 2: Stock Prices Change Over Last Week
+* Page 3: Quarters Stock Prices Comparison
+* Page 4: Volumes Comparison
